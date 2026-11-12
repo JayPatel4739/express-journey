@@ -1,1 +1,4 @@
 ./.DS_Store
+./auth-db-integration-api/database.db
+
+
