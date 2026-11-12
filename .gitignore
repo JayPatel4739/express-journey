@@ -1,4 +1,13 @@
-./.DS_Store
-./auth-db-integration-api/database.db
+# macOS
+.DS_Store
 
+# Dependencies
+node_modules/
 
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
