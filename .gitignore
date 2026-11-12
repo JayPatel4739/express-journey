@@ -12,4 +12,5 @@ node_modules/
 *.log
 npm-debug.log*
 
-./auth-db-integration-api/database.db
+# Database files
+database.db
